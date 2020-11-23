@@ -25,4 +25,11 @@
     <string name="participants">Participants</string>
     <string name="style">Style</string>
     <string name="score">Score</string>
+    <string name="username">USERNAME</string>
+    <string name="avatar">Avatar</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="email">Email</string>
+    <string name="avg_tournament_size">Avg. Tournament Size</string>
+    <string name="placeholder_number">###</string>
+    <string name="logout">Logout</string>
 </resources>
