@@ -3,4 +3,26 @@
     <string name="tab_text_1">My Tournaments</string>
     <string name="tab_text_2">Featured</string>
     <string name="tab_text_3">Search</string>
+    <string name="search_bar">Search</string>
+    <string name="search_button">Search</string>
+    <string name="versus_text">VS</string>
+    <string name="tournament_name">TOURNAMENT NAME</string>
+    <string name="date_and_time">DATE AND TIME</string>
+    <string name="team_name_1">Team 1</string>
+    <string name="team_name_2">Team 2</string>
+    <string name="tournament_style">Single Elimination</string>
+    <string name="participant_count">##/##</string>
+    <string name="submit_score">Submit Score</string>
+    <string name="create_tournament">Create Tournament</string>
+    <string name="choose_name">Tournament Name</string>
+    <string name="choose_date">Start Date</string>
+    <string name="choose_time">Start Time</string>
+    <string name="choose_participant_number">Number of Participants</string>
+    <string name="Register">Register</string>
+    <string name="view_bracket">View Bracket</string>
+    <string name="view_match">View Match</string>
+    <string name="tournament_logo">Tournament Logo</string>
+    <string name="participants">Participants</string>
+    <string name="style">Style</string>
+    <string name="score">Score</string>
 </resources>

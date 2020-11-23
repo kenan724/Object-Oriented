@@ -9,6 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Tournament">
+        <activity android:name=".ui.tournament.SubmitScoreActivity"></activity>
+        <activity android:name=".ui.tournament.CreateTournamentActivity" />
+        <activity android:name=".ui.tournament.MatchActivity" />
+        <activity android:name=".ui.main.TournamentActivity" />
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
