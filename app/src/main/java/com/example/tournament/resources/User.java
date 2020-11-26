@@ -1,4 +1,4 @@
-package com.example.tournament;
+package com.example.tournament.resources;
 
 import com.example.tournament.resources.IDGenerator;
 

@@ -1,4 +1,7 @@
-package com.example.tournament;
+package com.example.tournament.resources;
+
+import com.example.tournament.resources.Registration;
+import com.example.tournament.resources.User;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,9 +1,6 @@
-package com.example.tournament;
-
-import com.example.tournament.resources.IDGenerator;
+package com.example.tournament.resources;
 
 import java.util.Date;
-import java.util.List;
 
 public class Tournament{
 
